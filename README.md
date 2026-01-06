@@ -1,5 +1,7 @@
 🟨 JavaScript Project – My Awesome JS App
 
+- Some Changes in the File
+
 
 <details> <summary><strong>📚 Table of Contents</strong></summary>
 📁 Folder Structure
