@@ -1,6 +1,6 @@
 🟨 JavaScript Project – My Awesome JS App
 
-- Some Changes in the File
+- Some Changes in the final file
 
 
 <details> <summary><strong>📚 Table of Contents</strong></summary>
